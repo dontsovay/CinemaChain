@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CinemaChain.Data\CinemaChain.Data.csproj" />
+    <ProjectReference Include="..\CinemaChain.Models\CinemaChain.Models.csproj" />
+  </ItemGroup>
+
+</Project>

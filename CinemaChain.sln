@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CinemaChain.API", "CinemaChain.API\CinemaChain.API.csproj", "{20B151F9-AA1D-432E-A972-81F27839EE3B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CinemaChain.Data", "CinemaChain.Data\CinemaChain.Data.csproj", "{89841E6E-17D4-4FC8-BD34-12E94CF99221}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CinemaChain.Models", "CinemaChain.Models\CinemaChain.Models.csproj", "{D87C0BEE-5FCA-4539-9AA6-4F907A659181}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CinemaChain.Infrastructure", "CinemaChain.Infrastructure\CinemaChain.Infrastructure.csproj", "{20D344B8-FC91-4ABE-BF61-09954A2381C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20B151F9-AA1D-432E-A972-81F27839EE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B151F9-AA1D-432E-A972-81F27839EE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B151F9-AA1D-432E-A972-81F27839EE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B151F9-AA1D-432E-A972-81F27839EE3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89841E6E-17D4-4FC8-BD34-12E94CF99221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89841E6E-17D4-4FC8-BD34-12E94CF99221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89841E6E-17D4-4FC8-BD34-12E94CF99221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89841E6E-17D4-4FC8-BD34-12E94CF99221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D87C0BEE-5FCA-4539-9AA6-4F907A659181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D87C0BEE-5FCA-4539-9AA6-4F907A659181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D87C0BEE-5FCA-4539-9AA6-4F907A659181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D87C0BEE-5FCA-4539-9AA6-4F907A659181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20D344B8-FC91-4ABE-BF61-09954A2381C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20D344B8-FC91-4ABE-BF61-09954A2381C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20D344B8-FC91-4ABE-BF61-09954A2381C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20D344B8-FC91-4ABE-BF61-09954A2381C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5C57909-C8C8-4118-9D84-00E978474576}
+	EndGlobalSection
+EndGlobal
